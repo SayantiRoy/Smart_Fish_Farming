@@ -5,3 +5,5 @@ Major problem in fish farming is the lack of availability of good-quality stock.
 Methods: Using Data Visualization and Data Processing, Unsupervised Algorithms and analyze the clustering of unlabeled datasets by K Means Clustering Algorithm and Hierarchical. Finally, applying Logistic Regression to real- world problems
 ## Algorithm Used :
 K-Means Algorithm (unsupervised Machine Learning ALgorithm)
+## Result :
+Thus here multi-class Classification has been performed and Prediction is done that which Fish can be cultivated in the given condition.
